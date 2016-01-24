@@ -1,3 +1,5 @@
+# Name Orbs
+
 A web applet written in processing and using processing.js to port to javascript.
 
 Orbs are generated randomly around the screen and coalesce in the shape of the letters of my name.
